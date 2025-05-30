@@ -1,0 +1,21 @@
+Actual,Predicted,Match,Name
+1,0,0,/Data - Full/02tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Ch4.stk
+0,0,1,/Data - Full/05tumor/25x_Ta_power2_stepsize1_PMT700_zoom2_kalman3_Ch4.stk
+0,0,1,/Data - Full/09tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+1,1,1,/Data - Full/11tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+0,0,1,/Data - Full/13tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+0,0,1,/Data - Full/14tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+1,0,0,/Data - Full/15tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+1,0,0,/Data - Full/16tumor/25x_T1d_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+1,0,0,/Data - Full/17tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+1,0,0,/Data - Full/18tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+0,0,1,/Data - Full/20tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+0,0,1,/Data - Full/21tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch4.stk
+0,0,1,/Data - Full/22tumor/25x_Tmixd_780nm_power2_stepsize1_Ch4.stk
+1,0,0,/Data - Full/22tumor/25x_Tmixd_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+1,1,1,/Data - Full/23tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+1,1,1,/Data - Full/24tumor/25x_T2d_780nm_power2_stepsize1_Ch4.stk
+0,0,1,/Data - Full/24tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+1,0,0,/Data - Full/25tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+0,0,1,/Data - Full/26tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
+1,1,1,/Data - Full/29tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk
